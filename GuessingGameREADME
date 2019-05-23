@@ -1,0 +1,4 @@
+'GuessingGame.py' is a game where each player guess a random number between 0-99. The player that guess the correct number wins the game.
+The program has 4 players. Player 1 and Player 2 are user controlled (human-controlled). Player 3 and 4 are controlled by the computer. 
+The program contains 3 matches. The first match is between Player 1 (human) and Player 2 (human). The second match is 
+between a human player and a computer player. The last match is between both non-human computer players. 
